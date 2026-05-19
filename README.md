@@ -49,7 +49,7 @@ Preview
 <img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/15805e29-8da8-49d3-96e4-f2d5ced5ff93" />
 
 Live Demo
-🔗 GitHub Pages Link:
+[Click Here to View Website](https://jhanvi-sharma.github.io/DecodeLabs-Internship/)
 
 Internship Project
 This project was created as Project 1 during my internship at DecodeLabs under the Frontend Development Program.
