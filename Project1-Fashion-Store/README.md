@@ -1,4 +1,4 @@
-Fashion Store Website: 
+<img width="1898" height="902" alt="image" src="https://github.com/user-attachments/assets/b1c64132-311d-44da-9334-ea6e366296b1" />Fashion Store Website: 
 - A modern and stylish Fashion Store Landing Page built using HTML5 and CSS3 during my Frontend Development Internship at DecodeLabs. This project focuses on creating a visually appealing and responsive user interface with smooth layouts, elegant styling, and mobile-friendly design.
 
 Project Highlights:
@@ -46,7 +46,8 @@ Preview:
 <img width="1898" height="912" alt="image" src="https://github.com/user-attachments/assets/b4acd89a-8211-466a-872f-16850e28b432" />
 <img width="1898" height="910" alt="image" src="https://github.com/user-attachments/assets/93a1e385-cdff-401b-8faa-da7b2df387e3" />
 
-Live Demo Click Here to View Website
+Live Demo:
+Click Here to View Website https://jhanvi-sharma.github.io/DecodeLabs-Internship/Project1-Fashion-Store/
 
 Internship Project:
 -This project was created as Project 1 during my internship at DecodeLabs under the Frontend Development Program.
