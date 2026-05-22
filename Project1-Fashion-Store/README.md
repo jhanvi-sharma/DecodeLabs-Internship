@@ -1,4 +1,4 @@
-<img width="1898" height="902" alt="image" src="https://github.com/user-attachments/assets/b1c64132-311d-44da-9334-ea6e366296b1" />Fashion Store Website: 
+Fashion Store Website: 
 - A modern and stylish Fashion Store Landing Page built using HTML5 and CSS3 during my Frontend Development Internship at DecodeLabs. This project focuses on creating a visually appealing and responsive user interface with smooth layouts, elegant styling, and mobile-friendly design.
 
 Project Highlights:
