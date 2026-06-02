@@ -177,10 +177,23 @@ h1{
     background:#2563eb;
 }
 @media(max-width:600px){
+    .container{
+        width:95%;
+        padding:20px;
+    }
+    .input-section{
+        flex-direction:column;
+    }
+    .input-section button,.input-section input{
+        width:100%;
+    }
     .stats{
         flex-direction:column;
         gap:8px;
         text-align:center;
+    }
+    .stats p{
+        width:100%;
     }
     .filters{
         flex-wrap:wrap;
