@@ -39,7 +39,8 @@ function addTask() {
         text: taskText,
         date: taskDate.value,
         completed: false
-    });    saveTasks();
+    });    
+    saveTasks();
     taskInput.value = "";
     displayTasks();
 }
