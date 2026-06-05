@@ -64,7 +64,7 @@ Student-Registration-Form/
 * Form Reset
 * Timers using setTimeout()
 
-## :Validation Rules
+## Validation Rules:
 ### Full Name
 * Only alphabets and spaces allowed
 ### Email
@@ -86,19 +86,6 @@ Must contain:
 * One special character
 ### Confirm Password
 * Must match the entered password
-
-## Dark Mode:
-The application includes a Dark Mode feature.
-* Toggle between Light Mode and Dark Mode
-* Theme preference is stored using Local Storage
-* Theme remains saved even after refreshing the page
-
-## Responsive Design:
-The form is fully responsive and adapts to:
-* Desktop Screens
-* Tablets
-* Mobile Devices
-Media Queries are used to optimize layout and usability on smaller screens.
 
 ## Learning Outcomes:
 Through this project, the following concepts were practiced:
